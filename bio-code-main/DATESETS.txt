@@ -1,0 +1,8 @@
+COVID and USCB Social Characteristics
+
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/
+
+Interesting attributes we noticed that the social characteristics data set had very specific data that could be very useful  but it had very redundant data where it represented the same data but in a different scale. The COVID data was very straightforward but included data from other countries which would not be useful when joining with the secondary data as it only pertained to the United States so we instead imported and used the COVID Data that was specific to the United States. 
+
+We hope to gain an understanding about how COVID affected different states and if the social characteristics of these states such as level of education,citizeship status, Ancestry, etc. has any relationship to the number of cases of COVID within that state.
